@@ -11,9 +11,9 @@ Features
 -Error Handling: Robust error handling to gracefully handle network errors and exceptions during port scanning.
 
 Usage
-1. Clone the repository or download the script file (port_scanner.py).
+1. Clone the repository or download the script file (portscanner.py).
 2. Ensure you have Python installed on your system.
-3. Run the script using the command line or terminal: python port_scanner.py <target> <start_port> <end_port> [--threads <num_threads>]
+3. Run the script using the command line or terminal: python portscanner.py <target> <start_port> <end_port> [--threads <num_threads>]
 
 <target>: Target IP address to scan.
 <start_port>: Start port of the port range to scan.

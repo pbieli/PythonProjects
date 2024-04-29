@@ -11,7 +11,7 @@ Features
 -Export to Text File: Option to export generated passwords to a text file for easy access and storage.
 
 Usage
-1. Clone the repository or download the script file (password_generator.py).
+1. Clone the repository or download the script file (passwordgenerator.py).
 2. Ensure you have Python installed on your system.
 3. Run the script using the command line or terminal: python password_generator.py
 4. Follow the prompts to specify password options interactively or use command-line arguments to customize the generation process.
@@ -26,11 +26,11 @@ Requirements
 Example
 Generate a password of length 12 with the default character set:
 
-python password_generator.py --length 12
+python passwordgenerator.py --length 12
 
 Generate 5 passwords of length 10, excluding ambiguous characters, and export them to a file named passwords.txt:
 
-python password_generator.py --length 10 --count 5 --exclude-ambiguous --export passwords.txt
+python passwordgenerator.py --length 10 --count 5 --exclude-ambiguous --export passwords.txt
 
 Author
 [Philipp Bielinski]
