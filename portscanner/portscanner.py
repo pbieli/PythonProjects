@@ -1,3 +1,9 @@
+"""
+Port Scanner
+Author: [Philipp Bielinski]
+Description: This script scans ports from a selected target.
+"""
+
 import concurrent.futures
 import argparse
 import socket
