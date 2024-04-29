@@ -11,12 +11,12 @@ Features
 -Export to Text File: Option to export generated passwords to a text file for easy access and storage.
 
 Usage
--Clone the repository or download the script file (password_generator.py).
--Ensure you have Python installed on your system.
--Run the script using the command line or terminal: python password_generator.py
--Follow the prompts to specify password options interactively or use command-line arguments to customize the generation process.
--Generated passwords will be displayed along with their entropy and strength indicator.
--Optionally, specify the --export flag followed by the file path to export generated passwords to a text file.
+1. Clone the repository or download the script file (password_generator.py).
+2. Ensure you have Python installed on your system.
+3. Run the script using the command line or terminal: python password_generator.py
+4. Follow the prompts to specify password options interactively or use command-line arguments to customize the generation process.
+5. Generated passwords will be displayed along with their entropy and strength indicator.
+6. Optionally, specify the --export flag followed by the file path to export generated passwords to a text file.
 
 Requirements
 -Python 3.x
