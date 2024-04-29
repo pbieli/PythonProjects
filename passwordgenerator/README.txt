@@ -13,7 +13,7 @@ Features
 Usage
 1. Clone the repository or download the script file (passwordgenerator.py).
 2. Ensure you have Python installed on your system.
-3. Run the script using the command line or terminal: python password_generator.py
+3. Run the script using the command line or terminal: python passwordgenerator.py
 4. Follow the prompts to specify password options interactively or use command-line arguments to customize the generation process.
 5. Generated passwords will be displayed along with their entropy and strength indicator.
 6. Optionally, specify the --export flag followed by the file path to export generated passwords to a text file.
